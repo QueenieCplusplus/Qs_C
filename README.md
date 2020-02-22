@@ -90,7 +90,7 @@ func(argv1, argv2, ...)
 * float
 
 
-* floats
+* complex, 浮點複數
 
 
 * int
