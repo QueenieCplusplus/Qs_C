@@ -30,6 +30,12 @@ CLang
 
 * Indent, 使用縮排表示巢狀意義。
 
+# 表現方式
+
+func(argv1, argv2, ...) 
+
+... 省略號表示 optional 選擇性的參數。
+
 (to be continued)
 
 
