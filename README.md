@@ -28,6 +28,8 @@ CLang
 
 * PrePorcessor declaration & Global declaration, 架構中模組化的過程，原始檔重視前置預處理器宣告和全域宣告。
 
+* Indent, 使用縮排表示巢狀意義。
+
 (to be continued)
 
 
