@@ -124,19 +124,4 @@ func(argv1, argv2, ...)
 
 
 
-
-
-
-
-
-
-
-
 (to be continued)
-
-
-
-
-
-
-
