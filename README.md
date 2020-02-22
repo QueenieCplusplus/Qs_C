@@ -78,6 +78,59 @@ func(argv1, argv2, ...)
 
                          3rd party lib
                          
+                         
+# 型態類別
+
+* void
+
+
+* enum
+
+
+* float
+
+
+* floats
+
+
+* int
+
+
+* extension
+
+*** pointer
+
+*** union, 聯合型別: 
+
+    每次只有一成員能儲存值。
+
+*** funcion
+
+# Other Types
+
+* arithmetics types:
+
+  enum extensions with other types
+  
+* scalar types
+
+  poninter extension with arithmetics
+
+* aggregate types, 聚合型別:
+
+*** array
+
+*** structure
+
+
+
+
+
+
+
+
+
+
 
 (to be continued)
 
