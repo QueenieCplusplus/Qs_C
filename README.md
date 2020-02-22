@@ -44,6 +44,22 @@ func(argv1, argv2, ...)
 
 兩種環境的字元集如相同則對應，倘若不同，則編譯器將原始碼的 char 常數和 string 常值裡的 char 轉換成後者字元集的元素。
 
+# Can Not Be Print Out
+
+* null
+
+* alert
+
+* backspace, 退格
+
+* carraige return, 歸位
+
+# To Print Out Escaping Symbol
+
+* \ (back slash) to be add on before escaping symbol
+
+
+
 (to be continued)
 
 
