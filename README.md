@@ -122,6 +122,10 @@ func(argv1, argv2, ...)
 
        *** structure
 
+#-------------------------------------------------------
 
+# Enum, 細說列舉
+
+ enum [id] { a list of keys... }
 
 (to be continued)
