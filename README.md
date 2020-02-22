@@ -26,6 +26,7 @@ CLang
 
 * No Nested funcs Occurs in C, 無巢狀函式現象，可在區塊內定義區域變數，不可再行定義區域函數。
 
+* PrePorcessor declaration & Global declaration, 架構中模組化的過程，原始檔重視前置預處理器宣告和全域宣告。
 
 (to be continued)
 
