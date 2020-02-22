@@ -36,6 +36,14 @@ func(argv1, argv2, ...)
 
 ... 省略號表示 optional 選擇性的參數。
 
+# 環境
+
+* Execution Env, 執行環境（解釋）
+
+* Translation Env, 轉譯環境
+
+兩種環境的字元集如相同則對應，倘若不同，則編譯器將原始碼的 char 常數和 string 常值裡的 char 轉換成後者字元集的元素。
+
 (to be continued)
 
 
