@@ -22,6 +22,11 @@ CLang
 
 # More Concept 
 
+* Define func equals to func declaration. 函數的定義也是宣告。
+
+* No Nested funcs Occurs in C, 無巢狀函式現象，可在區塊內定義區域變數，不可再行定義區域函數。
+
+
 (to be continued)
 
 
