@@ -90,7 +90,7 @@ func(argv1, argv2, ...)
 * float
 
 
-* complex, 浮點複數
+* complex, 浮點複數 (will make a try)
 
 
 * int
@@ -98,9 +98,9 @@ func(argv1, argv2, ...)
 
 * extension
 
-       *** pointer
+       *** pointer (will make a try)
 
-       *** union, 聯合型別: 
+       *** union, 聯合型別: (will make a try)
 
            每次只有一成員能儲存值。
 
@@ -108,11 +108,11 @@ func(argv1, argv2, ...)
 
 # Other Types
 
-* arithmetics types:
+* arithmetics types (will make a try) :
 
          enum extensions with other types
   
-* scalar types
+* scalar types (will make a try):
 
          poninter extension with arithmetics
 
@@ -120,7 +120,7 @@ func(argv1, argv2, ...)
 
        *** array
 
-       *** structure
+       *** structure (will make a try)
 
 #-------------------------------------------------------
 
