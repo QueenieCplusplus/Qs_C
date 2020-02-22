@@ -56,9 +56,15 @@ func(argv1, argv2, ...)
 
 # To Print Out Escaping Symbol
 
-* \ (back slash) to be add on before escaping symbol
+* \ (back slash) to be add on before escaping symbol, to mapping above mentioned symbols:
 
+* \0
 
+* \a
+
+* \b
+
+* \r
 
 (to be continued)
 
