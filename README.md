@@ -126,6 +126,6 @@ func(argv1, argv2, ...)
 
 # Enum, 細說列舉
 
- enum [id] { a list of keys... }
+ enum [flag] { a list of keys... }
 
 (to be continued)
