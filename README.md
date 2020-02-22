@@ -66,6 +66,19 @@ func(argv1, argv2, ...)
 
 * \r
 
+# 編譯器
+
+       
+               Interpreter            Linker
+                  
+
+      source file   ->   object file.  ->   Execution File
+
+                         standard lib
+
+                         3rd party lib
+                         
+
 (to be continued)
 
 
