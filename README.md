@@ -12,6 +12,14 @@ CLang
 
 * Proficience
 
+# 關於可攜性的提醒
+
+倘若程式設計師使用非標準函式庫，則可攜性將受限，程式碼僅能移植至程式庫支援的系統上。
+
+# code
+
+(plz see codebase directly.)
+
 
 
 
