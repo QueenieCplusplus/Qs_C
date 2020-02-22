@@ -127,5 +127,7 @@ func(argv1, argv2, ...)
 # Enum, 細說列舉
 
  enum [flag] { a list of keys... }
+ 
+ <https://github.com/QueenieCplusplus/Qs_C/blob/day1/0222_enum.c>
 
 (to be continued)
