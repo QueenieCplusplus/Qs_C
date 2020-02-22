@@ -98,29 +98,29 @@ func(argv1, argv2, ...)
 
 * extension
 
-*** pointer
+       *** pointer
 
-*** union, 聯合型別: 
+       *** union, 聯合型別: 
 
-    每次只有一成員能儲存值。
+           每次只有一成員能儲存值。
 
-*** funcion
+       *** funcion
 
 # Other Types
 
 * arithmetics types:
 
-  enum extensions with other types
+         enum extensions with other types
   
 * scalar types
 
-  poninter extension with arithmetics
+         poninter extension with arithmetics
 
 * aggregate types, 聚合型別:
 
-*** array
+       *** array
 
-*** structure
+       *** structure
 
 
 
