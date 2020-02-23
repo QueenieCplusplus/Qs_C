@@ -179,5 +179,11 @@ func(argv1, argv2, ...)
                {}, brace
 
                ~, swing dash
+               
+#-------------------------------------------------------
+ 
+# \U, \u, \x in Char Set, 字元集中擴充的通用和寬字元
+
+
 
 (to be continued)
