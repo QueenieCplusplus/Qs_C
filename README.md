@@ -197,7 +197,11 @@ wchar_t, UTF-16 | UTF-32
         //define char16_t using _STDC_UTF_16_ 巨集
         //define char32_t using _STDC_UTF_32_ 巨集
 
-多位元組-char, byte 中的 char-val 由 string | stream 所在的內容決定。
+多位元組-char, UTF-8
+
+         byte 中的 char-val 由 string | stream 所在的內容決定。
+         每個字元由 1 ~ 4 個 bites 所表示。（不同的字元編碼寬度）
+
 
 
 (to be continued)
