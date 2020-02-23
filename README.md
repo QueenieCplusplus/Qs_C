@@ -129,5 +129,55 @@ func(argv1, argv2, ...)
  enum [flag] { a list of keys... }
  
  <https://github.com/QueenieCplusplus/Qs_C/blob/day1/0222_enum.c>
+ 
+ #-------------------------------------------------------
+ 
+ # 23 Punctuation marks in Char Set, 字元集中常用的符號
+ 
+ !, exclamation
+ 
+ " ", double quote
+ 
+ %
+ 
+ #
+ 
+ '', sigle quote
+ 
+ (), parentheses for param
+ 
+ *, asterisk
+ 
+ +
+ 
+ ,, comma
+ 
+ -
+ 
+ /. slash
+ 
+ :, colon
+ 
+ ;, semicolon
+ 
+ <
+ 
+ =
+ 
+ >
+ 
+ ?
+ 
+ [], brackets
+ 
+ \, back slash
+ 
+ ^
+ 
+ _
+ 
+ {}, brace
+ 
+ ~, swing dash
 
 (to be continued)
