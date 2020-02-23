@@ -182,7 +182,7 @@ func(argv1, argv2, ...)
                
 #-------------------------------------------------------
  
-# Unicode in Char Set, 字元集中擴充的通用和寬(多位元組)字元
+# Unicode in Char Set, 編碼
 
 Ascii, 7 bits
 
