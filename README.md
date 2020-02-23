@@ -152,7 +152,7 @@ func(argv1, argv2, ...)
 
                ,, comma
 
-               -
+               -, dash 
 
                /. slash
 
