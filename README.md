@@ -188,12 +188,16 @@ Ascii, 7 bits
 
 Unicode, 8 bits (1 byte)
 
-等寬位元-char,
+wchar_t, UTF-16 | UTF-32
+
+        #include <stddef.h>
+        wchar_t wc = '\x3b1'; //使用16進制格式存入變數
+        
+        #include <uchar.h>
+        //define char16_t using _STDC_UTF_16_ 巨集
+        //define char32_t using _STDC_UTF_32_ 巨集
 
 多位元組-char, byte 中的 char-val 由 string | stream 所在的內容決定。
-
-
-
 
 
 (to be continued)
