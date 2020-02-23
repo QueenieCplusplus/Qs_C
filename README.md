@@ -182,7 +182,17 @@ func(argv1, argv2, ...)
                
 #-------------------------------------------------------
  
-# \U, \u, \x in Char Set, 字元集中擴充的通用和寬字元
+# \U, \u, \x in Char Set, 字元集中擴充的通用和寬(多位元組)字元
+
+Ascii, 7 bits
+
+Unicode, 8 bits (1 byte)
+
+等寬位元-char,
+
+多位元組-char, byte 中的 char-val 由 string | stream 所在的內容決定。
+
+
 
 
 
