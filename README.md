@@ -186,7 +186,12 @@ func(argv1, argv2, ...)
 
 Ascii, 7 bits
 
-Unicode, 8 bits (1 byte)
+Unicode, UTF-8, 8 bits (1 byte)
+
+         char aStringConsistOf4ZeroInPrefix = '\uXXXX' | '\U0000XXXX'
+         // backslash and downcast u with 4 hex
+         // backslash and uppercast U with 8 hex
+         // 藉此編碼表示字元常數或字串常值
 
 wchar_t, UTF-16 | UTF-32
 
@@ -197,14 +202,11 @@ wchar_t, UTF-16 | UTF-32
         //define char16_t using _STDC_UTF_16_ 巨集
         //define char32_t using _STDC_UTF_32_ 巨集
 
-多位元組-char, UTF-8
+多位元組-char
 
          byte 中的 char-val 由 string | stream 所在的內容決定。
          每個字元由 1 ~ 4 個 bites 所表示。（不同的字元編碼寬度）
          
-         char aStringConsistOf4ZeroInPrefix = '\uXXXX' | '\U0000XXXX'
-         // backslash and downcast u with 4 hex
-         // backslash and uppercast U with 8 hex
          
 <https://github.com/QueenieCplusplus/Qs_C/blob/master/0223_char.c>
 
