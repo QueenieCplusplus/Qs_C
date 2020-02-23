@@ -203,8 +203,8 @@ wchar_t, UTF-16 | UTF-32
          每個字元由 1 ~ 4 個 bites 所表示。（不同的字元編碼寬度）
          
          char aStringConsistOf4ZeroInPrefix = '\uXXXX' | '\U0000XXXX'
-         // backslash and downcast u with 4 bytes
-         // backslash and uppercast U with 8 bytes
+         // backslash and downcast u with 4 hex
+         // backslash and uppercast U with 8 hex
          
 <https://github.com/QueenieCplusplus/Qs_C/blob/master/0223_char.c>
 
