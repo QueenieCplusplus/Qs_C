@@ -202,6 +202,10 @@ wchar_t, UTF-16 | UTF-32
          byte 中的 char-val 由 string | stream 所在的內容決定。
          每個字元由 1 ~ 4 個 bites 所表示。（不同的字元編碼寬度）
          
+         char aStringConsistOf4ZeroInPrefix = '\uXXXX' | '\U0000XXXX'
+         // backslash and downcast u with 4 bytes
+         // backslash and uppercast U with 8 bytes
+         
 <https://github.com/QueenieCplusplus/Qs_C/blob/master/0223_char.c>
 
 (to be continued)
